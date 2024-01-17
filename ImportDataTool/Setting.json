@@ -1,0 +1,22 @@
+{
+  "Version": "24.01.15.1",
+  "Date": "",
+  "MySqlConfig": {
+    "Id": 0,
+    "Server": "192.168.13.140",
+    "Port": 3306,
+    "User": "aaa",
+    "Password": "1234",
+    "Database": "XinValueHistory",
+    "Table": "XVH_minute",
+    "Columns": [
+      "pid",
+      "game_id",
+      "bet_num",
+      "bet_amount",
+      "payoff",
+      "profit",
+      "at"
+    ]
+  }
+}

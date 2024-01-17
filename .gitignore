@@ -1,0 +1,9 @@
+.vs/
+
+# 忽略所有資料夾下的bin和obj
+**/bin/
+**/obj/
+
+**/Properties/PublishProfiles
+
+**/*.csproj.user
