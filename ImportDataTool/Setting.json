@@ -1,6 +1,7 @@
 {
   "Version": "24.01.15.1",
-  "Date": "",
+  "DateStart": "20240114",
+  "DateEnd": "20240114",
   "MySqlConfig": {
     "Id": 0,
     "Server": "192.168.13.140",
